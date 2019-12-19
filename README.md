@@ -1,0 +1,2 @@
+# onlyCuiGitOpperation
+cuiだけで操作するリポジトリ
